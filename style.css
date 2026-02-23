@@ -43,3 +43,8 @@
 #navbar4 div {
     font-size: 1.2rem;
 }
+
+#navbar5 .nav-link {
+    color: white;
+    font-size: 1.2rem;
+}
