@@ -31,3 +31,15 @@
 #navbar3 i {
     font-size: 24px;
 }
+
+#navbar4 img {
+    width: 110px;
+}
+
+#navbar4 .nav-link {
+    color: black;
+}
+
+#navbar4 div {
+    font-size: 1.2rem;
+}
