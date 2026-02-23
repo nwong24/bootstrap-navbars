@@ -18,3 +18,16 @@
     padding-top: 0px;
     color: black;
 }
+
+#navbar3 {
+     background-color: rgb(48,73,95);
+     color: white;
+}
+
+#navbar3 h4 {
+    font-weight: bold;
+}
+
+#navbar3 i {
+    font-size: 24px;
+}
